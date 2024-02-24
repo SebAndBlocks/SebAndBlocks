@@ -10,6 +10,7 @@
 - 🎮 I'm learning C# (Unity)
 - 🥷 I'm an Enrolled Student at Code Ninjas
 - 💷 I'm an Entrepreneur
+- 📫 Reach me at [sebtnt@proton.me](mailto:sebtnt@proton.me)
 <!--
 **SebTNT/SebTNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
