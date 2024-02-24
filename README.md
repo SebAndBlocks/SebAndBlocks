@@ -1,5 +1,15 @@
-### Hi there 👋
+## 👋 Hi, I'm Seb.
 
+- 🌍 I'm from the UK
+- 💾 I'm a young Computer Developer
+- 📄 I'm Currently Studying GCSE Computer Science (OCR J277)
+- 🐍 I know Python
+- 🌐 I know HTML & JS
+- 🪷 I know CSS
+- 🕹️ I partially know Lua (specifically Luau)
+- 🎮 I'm learning C# (Unity)
+- 🥷 I'm an Enrolled Student at Code Ninjas
+- 💷 I'm an Entrepreneur
 <!--
 **SebTNT/SebTNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
