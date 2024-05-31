@@ -1,1 +1,1 @@
-![Hi, I'm Seb. - I'm from the UK - I am a yound Software Dev - I'm studying GCSE C/S and Know Python, HTML, JS, CSS, LUA and C#. Contact me at sebtnt@proton.me](SebBIO.png)
+![SebAndBlock's GitHub Stats - This is a dynamic object which changes]([SebBIO.png](https://github-readme-stats.vercel.app/api?username=SebAndBlocks&count_private=true&show_icons=true&include_all_commits=true&theme=radical&show=prs_merged))
