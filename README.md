@@ -1,1 +1,1 @@
-![SebAndBlock's GitHub Stats - This is a dynamic object which changes]([SebBIO.png](https://github-readme-stats.vercel.app/api?username=SebAndBlocks&count_private=true&show_icons=true&include_all_commits=true&theme=radical&show=prs_merged))
+![SebAndBlock's GitHub Stats - This is a dynamic object which changes](https://github-readme-stats.vercel.app/api?username=SebAndBlocks&count_private=true&show_icons=true&include_all_commits=true&theme=radical&show=prs_merged)
