@@ -43,4 +43,4 @@
 - 🎮 Nintendo Switch (Primarily used by my brother)
 - 🕹️ PS3 Super Slim
 - 🕹️ Nintendo Wii (The Gamecube compatible version)
-![SebAndBlock's GitHub Stats - This is a dynamic object which changes](https://github-readme-stats.vercel.app/api?username=SebAndBlocks&count_private=true&show_icons=true&include_all_commits=true&theme=radical&show=prs_merged)
+##### ![SebAndBlock's GitHub Stats - This is a dynamic object which changes](https://github-readme-stats.vercel.app/api?username=SebAndBlocks&count_private=true&show_icons=true&include_all_commits=true&theme=radical&show=prs_merged)
