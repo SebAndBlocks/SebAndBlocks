@@ -1,4 +1,4 @@
-## 📱💻🖥️📶📺🎮 My Devices
+## My Devices 📱💻🖥️📶📺🎮
 ### 📱 Smartphones
 - 📱 Apple iPhone 4S White
 - 📱 Apple iPhone 4S Black
