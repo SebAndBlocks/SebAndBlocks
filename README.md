@@ -1,4 +1,4 @@
-## My Devices
+## 📱💻🖥️📶📺🎮 My Devices
 ### 📱 Smartphones
 - 📱 Apple iPhone 4S White
 - 📱 Apple iPhone 4S Black
@@ -37,7 +37,7 @@
 - 📺 Apple TV 4th Gen
 - 📺 Fire TV Stick (F*ck knows what Generation)
 - 📺 Old Hitatchi TV that is disassembled with both the unusable case and the LG Display below my Desk (no way im getting all the electronics to work as the Hitatchi TV again, at least not without looking at the other Hitatchi TV)
-### Game Consoles
+### 🎮 Game Consoles
 - 🎮 Steam Deck OLED 1TB
 - 🎮 Meta Quest 2 (my dumba$$ bought it full price about 1-3 months before the Quest 3 Dropped for the same price)
 - 🎮 Nintendo Switch (Primarily used by my brother)
