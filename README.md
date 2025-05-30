@@ -31,6 +31,7 @@
 - 🔈 Alexa Echo Dot (Old Flat Dot Ver.)
 - 🔌 (A ton of) Tapo/Kasa Smart Plugs
 - 💡 ~3x~ 2x Tapo Smart Bulbs (the first one broke 😭)
+- 💡 Tapo Smart Light Strip
 ### 📺 TVs and TV Devices
 - 📺 LG Hybrid TV Monitor
 - 📺 Google Chromecast 4K (my dumba$$ paid for the 4K model despite having a 1080p TV 😭)
