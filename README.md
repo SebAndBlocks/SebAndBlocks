@@ -1,3 +1,5 @@
+# `$ cat "SebAndBlocks"`
+![My GH Stats](https://github-readme-stats.vercel.app/api?username=sebandblocks&show_icons=true&theme=gruvbox)
 ## My Devices 📱💻🖥️📶📺🎮
 ### 📱 Smartphones
 - 📱 Apple iPhone 4S White
