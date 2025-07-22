@@ -32,7 +32,7 @@
 - 🔈 Alexa Show
 - 🔈 Alexa Echo Dot (Old Flat Dot Ver.)
 - 🔌 (A ton of) Tapo/Kasa Smart Plugs
-- 💡 ~3x~ 2x Tapo Smart Bulbs (the first one broke 😭)
+- 💡 ~3x~ 2x Tapo Smart Bulbs (the first one broke 😭) (retired as of July '25)
 - 💡 Tapo Smart Light Strip
 ### 📺 TVs and TV Devices
 - 📺 LG Hybrid TV Monitor
