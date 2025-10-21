@@ -34,6 +34,8 @@
 - 🔌 (A ton of) Tapo/Kasa Smart Plugs
 - 💡 ~3x~ 2x Tapo Smart Bulbs (the first one broke 😭) (retired as of July '25)
 - 💡 Tapo Smart Light Strip
+- 💡 Govee Smart Outdoor Projector
+- 🦈 Shark RoboVac (Tony Shark)
 ### 📺 TVs and TV Devices
 - 📺 LG Hybrid TV Monitor
 - 📺 Google Chromecast 4K (my dumba$$ paid for the 4K model despite having a 1080p TV 😭)
