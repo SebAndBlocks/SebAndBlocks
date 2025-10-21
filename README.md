@@ -10,6 +10,7 @@
 - 📱 Apple iPhone 5S Black (Again)
 - 📱 Apple iPhone SE Gen 1
 - 📱 Apple iPhone SE Gen 2
+- 📱 Google Pixel 9a
 ### 📱 Tablets
 - 📱 Amazon Kindle 7th Gen
 - 📱 Amazon Kindle 7th Gen (Again)
