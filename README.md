@@ -23,7 +23,7 @@
 - 💻 ASUS W202N
 - 💻 ASUS C202 (Chromebook, Coreboot Modified)
 - 💻 ASUS idk what model)
-- 💻 Alcatel PLUS 12 (Laptop Tablet Combo) (+ The Tacky LTE Keyboard that runs a wifi hotspot from the keyboard)
+- 💻 ~Alcatel PLUS 12 (Laptop Tablet Combo) (+ The Tacky LTE Keyboard that runs a wifi hotspot from the keyboard)~ (Given to [@abieexe](https://github.com/abieexe)
 ### 🖥️ Computers
 - 🖥️ CyberPower Custom Build (16GB DDR4 RAM, Nvidia MSI GTX970, Ryzen CPU, Don't know all the other specs)
 - 🖥️ DELL PowerEdge T630 Standalone Server (Running Ubuntu Server)
@@ -33,13 +33,13 @@
 - 🔈 Alexa Show
 - 🔈 Alexa Echo Dot (Old Flat Dot Ver.)
 - 🔌 (A ton of) Tapo/Kasa Smart Plugs
-- 💡 ~3x~ 2x Tapo Smart Bulbs (the first one broke 😭) (retired as of July '25)
+- 💡 ~3x~ ~2x~ 0x Tapo Smart Bulbs (the first one broke 😭) ~(retired as of July '25)~ (retired all of them, switched to typical dimmer bulbs)
 - 💡 Tapo Smart Light Strip
 - 💡 Govee Smart Outdoor Projector
 - 🦈 Shark RoboVac (Tony Shark)
 ### 📺 TVs and TV Devices
 - 📺 LG Hybrid TV Monitor
-- 📺 Google Chromecast 4K (my dumba$$ paid for the 4K model despite having a 1080p TV 😭)
+- 📺 Google Chromecast 4K (my dumba$$ paid for the 4K model despite having a 1080p TV 😭, edit: in defense)
 - 📺 Apple TV 4th Gen
 - 📺 Fire TV Stick (F*ck knows what Generation)
 - 📺 Old Hitatchi TV that is disassembled with both the unusable case and the LG Display below my Desk (no way im getting all the electronics to work as the Hitatchi TV again, at least not without looking at the other Hitatchi TV)
