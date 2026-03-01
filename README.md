@@ -23,7 +23,7 @@
 - 💻 ASUS W202N
 - 💻 ASUS C202 (Chromebook, Coreboot Modified)
 - 💻 ASUS idk what model)
-- 💻 ~Alcatel PLUS 12 (Laptop Tablet Combo) (+ The Tacky LTE Keyboard that runs a wifi hotspot from the keyboard)~ (Given to [@abieexe](https://github.com/abieexe)
+- 💻 ~Alcatel PLUS 12 (Laptop Tablet Combo) (+ The Tacky LTE Keyboard that runs a wifi hotspot from the keyboard)~ (Given to [@abieexe](https://github.com/abieexe))
 ### 🖥️ Computers
 - 🖥️ CyberPower Custom Build (16GB DDR4 RAM, Nvidia MSI GTX970, Ryzen CPU, Don't know all the other specs)
 - 🖥️ DELL PowerEdge T630 Standalone Server (Running Ubuntu Server)
@@ -45,7 +45,7 @@
 - 📺 Old Hitatchi TV that is disassembled with both the unusable case and the LG Display below my Desk (no way im getting all the electronics to work as the Hitatchi TV again, at least not without looking at the other Hitatchi TV)
 ### 🎮 Game Consoles
 - 🎮 Steam Deck OLED 1TB
-- 🎮 Meta Quest 2 (my dumba$$ bought it full price about 1-3 months before the Quest 3 Dropped for the same price)
+- 🎮 Meta Quest 2 (my dumbass bought it full price about 1-3 months before the Quest 3 Dropped for the same price)
 - 🎮 Nintendo Switch (Primarily used by my brother)
 - 🕹️ PS3 Super Slim
 - 🕹️ Nintendo Wii (The Gamecube compatible version)
