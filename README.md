@@ -30,10 +30,11 @@
 ### 📶 Smart Devices
 - 📷 Eufy Smart Doorbell (Battery)
 - 📷 Eufy Smart Floodlight
-- 🔈 Alexa Show
+- 🔈 Alexa Show 8 1st Gen (Hacked)
+- 🔈 Home Assistant Voice PE (Okay Nabu)
 - 🔈 Alexa Echo Dot (Old Flat Dot Ver.)
 - 🔌 (A ton of) Tapo/Kasa Smart Plugs
-- 💡 ~3x~ ~2x~ 0x Tapo Smart Bulbs (the first one broke 😭) ~(retired as of July '25)~ (retired all of them, switched to typical dimmer bulbs)
+- 💡 ~3x~ ~2x~ 0x Tapo Smart Bulbs ~(the first one broke 😭)~ ~(retired as of July '25)~ (retired all of them, switched to typical dimmer bulbs)
 - 💡 Tapo Smart Light Strip
 - 💡 Govee Smart Outdoor Projector
 - 🦈 Shark RoboVac (Tony Shark)
